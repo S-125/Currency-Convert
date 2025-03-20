@@ -1,6 +1,5 @@
 {
   "homepage": "https://s-125.github.io/Currency-Converter",
-
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +22,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
