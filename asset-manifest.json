@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Currency-Converter/static/css/main.681f6eec.css",
-    "main.js": "/Currency-Converter/static/js/main.54c848b1.js",
-    "static/js/453.ed3810f9.chunk.js": "/Currency-Converter/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/Currency-Converter/index.html",
-    "main.681f6eec.css.map": "/Currency-Converter/static/css/main.681f6eec.css.map",
-    "main.54c848b1.js.map": "/Currency-Converter/static/js/main.54c848b1.js.map",
-    "453.ed3810f9.chunk.js.map": "/Currency-Converter/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/CurrencyConvert/static/css/main.681f6eec.css",
+    "main.js": "/CurrencyConvert/static/js/main.b219e150.js",
+    "static/js/453.ed3810f9.chunk.js": "/CurrencyConvert/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/CurrencyConvert/index.html",
+    "main.681f6eec.css.map": "/CurrencyConvert/static/css/main.681f6eec.css.map",
+    "main.b219e150.js.map": "/CurrencyConvert/static/js/main.b219e150.js.map",
+    "453.ed3810f9.chunk.js.map": "/CurrencyConvert/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.681f6eec.css",
-    "static/js/main.54c848b1.js"
+    "static/js/main.b219e150.js"
   ]
 }
